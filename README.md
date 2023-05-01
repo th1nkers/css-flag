@@ -1,0 +1,1 @@
+This simple making of the Indian flag using CSS helps me to re-vise the positioning property of the CSS like of relative, static and absolute.
